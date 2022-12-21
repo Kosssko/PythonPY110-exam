@@ -38,8 +38,8 @@ def price():
 
 def author():
     fake = faker.Faker()
-    author = fake.name()
-    return author
+    return [fake.name() for _ in range(random.randint(1,3))]
+
 
 def get_dict(start):
     gen_pk = pk(start)
