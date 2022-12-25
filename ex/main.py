@@ -1,6 +1,7 @@
 from conf import MODEL
 import random
 import faker
+import json
 
 def pk(start):
     yield start
@@ -32,7 +33,7 @@ def rating():
     return next(rating)
 
 def price():
-    price = (round(random.uniform(0, 100000), 1) for x in range(100))
+    price = (round(random.uniform(0, 2000), 1) for x in range(100))
     return next(price)
 
 
@@ -41,7 +42,7 @@ def author():
     return [fake.name() for _ in range(random.randint(1,3))]
 
 
-def get_dict(start):
+def get_dict(start=1):
     gen_pk = pk(start)
     while True:
         yield {"model": MODEL, "pk": next(gen_pk), "fields": {"title": title(), "year": year(), "pages": pages(),
@@ -49,7 +50,11 @@ def get_dict(start):
                                                               "author": author()}}
 
 
+def main():
+    list_book = [next(get_dict()) for _ in range(100)]
+    with open("result.json", "w", encoding="utf8") as f:
+        json.dump(list_book, f, ensure_ascii=False, indent=4)
+
+
 if __name__ == "__main__":
-    gen = get_dict(1)
-    print(next(gen))
-    print(next(gen))
+    main()
