@@ -3,29 +3,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2008,
-            "pages": 226,
-            "isbn13": "0-627-94228-8",
-            "rating": 0.8,
-            "price": 301.2,
+            "title": "Искусство программирования",
+            "year": 2021,
+            "pages": 105,
+            "isbn13": "1-62919-849-8",
+            "rating": 4.0,
+            "price": 1148.0,
             "author": [
-                "Shaun Murray"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2000,
-            "pages": 14,
-            "isbn13": "0-676-00676-0",
-            "rating": 0.4,
-            "price": 1492.0,
-            "author": [
-                "Steven Henderson"
+                "Timothy Ward"
             ]
         }
     },
@@ -34,15 +19,31 @@
         "pk": 1,
         "fields": {
             "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2005,
-            "pages": 493,
-            "isbn13": "1-82096-015-3",
-            "rating": 0.2,
-            "price": 552.1,
+            "year": 2011,
+            "pages": 219,
+            "isbn13": "1-77950-316-4",
+            "rating": 4.2,
+            "price": 64.0,
             "author": [
-                "Miss Jody Douglas",
-                "Gerald Jones",
-                "Kayla Juarez"
+                "Sherri Mora",
+                "Jackie Kelly"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2018,
+            "pages": 292,
+            "isbn13": "0-9785919-6-8",
+            "rating": 0.8,
+            "price": 1808.8,
+            "author": [
+                "Jerry Jacobs",
+                "Jason Martin",
+                "Tamara Lee"
             ]
         }
     },
@@ -52,13 +53,13 @@
         "fields": {
             "title": "Паттерны объектно-ориентированного проектирования",
             "year": 2003,
-            "pages": 244,
-            "isbn13": "0-691-89516-3",
-            "rating": 1.3,
-            "price": 235.6,
+            "pages": 406,
+            "isbn13": "0-9833603-5-9",
+            "rating": 2.6,
+            "price": 166.6,
             "author": [
-                "Amber Sutton",
-                "Mrs. Brittany Douglas MD"
+                "Kyle Lyons",
+                "Susan Pena"
             ]
         }
     },
@@ -67,142 +68,15 @@
         "pk": 1,
         "fields": {
             "title": "Паттерны проектирования",
-            "year": 2010,
-            "pages": 71,
-            "isbn13": "0-309-63580-2",
-            "rating": 4.9,
-            "price": 1033.0,
+            "year": 2004,
+            "pages": 384,
+            "isbn13": "1-309-14387-0",
+            "rating": 4.8,
+            "price": 1955.1,
             "author": [
-                "Rebecca Lambert"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2018,
-            "pages": 78,
-            "isbn13": "0-00-928749-3",
-            "rating": 0.8,
-            "price": 1720.2,
-            "author": [
-                "Leah Delgado",
-                "Gregory Mendez",
-                "Joseph Warren"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2001,
-            "pages": 460,
-            "isbn13": "0-901240-00-1",
-            "rating": 4.2,
-            "price": 1141.4,
-            "author": [
-                "Joe Kirk"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2019,
-            "pages": 440,
-            "isbn13": "0-9554725-6-3",
-            "rating": 1.5,
-            "price": 1055.8,
-            "author": [
-                "Mark Garcia",
-                "Frank Hunter",
-                "Elizabeth Rodriguez"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2010,
-            "pages": 42,
-            "isbn13": "1-83741-564-1",
-            "rating": 0.2,
-            "price": 1692.2,
-            "author": [
-                "Jennifer Evans",
-                "Stephanie Smith"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2008,
-            "pages": 221,
-            "isbn13": "1-916539-49-1",
-            "rating": 1.8,
-            "price": 1093.5,
-            "author": [
-                "Angela Montes"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2021,
-            "pages": 483,
-            "isbn13": "0-8266-0251-7",
-            "rating": 1.6,
-            "price": 394.6,
-            "author": [
-                "Andrea Duke",
-                "James Harris Jr.",
-                "Michael Foster"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2000,
-            "pages": 423,
-            "isbn13": "0-581-75464-6",
-            "rating": 0.3,
-            "price": 660.2,
-            "author": [
-                "Tyrone Martin"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2019,
-            "pages": 44,
-            "isbn13": "0-301-75321-0",
-            "rating": 3.3,
-            "price": 1581.2,
-            "author": [
-                "Sherry Miller",
-                "Andrew Williams",
-                "Meghan Farmer"
+                "Brittany Torres",
+                "Diana Brown",
+                "Tammy Marks"
             ]
         }
     },
@@ -211,14 +85,64 @@
         "pk": 1,
         "fields": {
             "title": "Искусство программирования",
-            "year": 2000,
-            "pages": 418,
-            "isbn13": "1-113-77997-7",
-            "rating": 1.0,
-            "price": 606.9,
+            "year": 2004,
+            "pages": 278,
+            "isbn13": "0-535-24590-4",
+            "rating": 2.4,
+            "price": 1998.1,
             "author": [
-                "Shannon Murphy",
-                "Dr. Lauren Gomez"
+                "Valerie Shaffer",
+                "Pamela Jones",
+                "Anthony Flores"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2003,
+            "pages": 399,
+            "isbn13": "1-82483-641-4",
+            "rating": 0.4,
+            "price": 168.4,
+            "author": [
+                "Michael Williams",
+                "Tony Alvarez",
+                "Shawn Taylor"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2008,
+            "pages": 65,
+            "isbn13": "1-08-303979-2",
+            "rating": 0.8,
+            "price": 594.7,
+            "author": [
+                "Jessica Schneider",
+                "Craig Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2016,
+            "pages": 155,
+            "isbn13": "1-275-84663-7",
+            "rating": 1.6,
+            "price": 571.2,
+            "author": [
+                "Lisa Allison",
+                "Carrie Tanner"
             ]
         }
     },
@@ -227,31 +151,752 @@
         "pk": 1,
         "fields": {
             "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2004,
+            "pages": 77,
+            "isbn13": "1-265-03558-X",
+            "rating": 0.8,
+            "price": 1410.9,
+            "author": [
+                "Colton Solis",
+                "Frederick Peterson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2009,
+            "pages": 290,
+            "isbn13": "1-995037-88-5",
+            "rating": 3.6,
+            "price": 1616.8,
+            "author": [
+                "Alexander Logan",
+                "Stephanie White",
+                "William Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2010,
+            "pages": 337,
+            "isbn13": "1-5384-4258-2",
+            "rating": 1.4,
+            "price": 1172.8,
+            "author": [
+                "April Burgess",
+                "Xavier Anderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2008,
+            "pages": 203,
+            "isbn13": "1-78575-294-4",
+            "rating": 4.3,
+            "price": 1731.7,
+            "author": [
+                "Harold West"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2018,
+            "pages": 362,
+            "isbn13": "1-74702-499-6",
+            "rating": 4.5,
+            "price": 803.2,
+            "author": [
+                "Alejandra Collier"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2019,
+            "pages": 413,
+            "isbn13": "0-475-20264-3",
+            "rating": 4.3,
+            "price": 1045.6,
+            "author": [
+                "John Scott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2003,
+            "pages": 24,
+            "isbn13": "1-267-55793-1",
+            "rating": 1.6,
+            "price": 774.7,
+            "author": [
+                "Kevin Bryant",
+                "Robert Hernandez",
+                "Jordan Barrera"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2019,
+            "pages": 86,
+            "isbn13": "0-334-34820-X",
+            "rating": 0.8,
+            "price": 719.6,
+            "author": [
+                "Greg Gonzales",
+                "Candace Rice",
+                "Amber Richardson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2010,
+            "pages": 432,
+            "isbn13": "1-195-67147-4",
+            "rating": 2.4,
+            "price": 1228.0,
+            "author": [
+                "Brandon Patrick",
+                "William Hunter"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2005,
+            "pages": 77,
+            "isbn13": "0-549-47733-0",
+            "rating": 4.4,
+            "price": 1968.5,
+            "author": [
+                "Brittney Alexander"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2014,
+            "pages": 98,
+            "isbn13": "1-85557-240-0",
+            "rating": 3.9,
+            "price": 1904.6,
+            "author": [
+                "Angela Rowe",
+                "Jamie Sanders",
+                "James Escobar"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2009,
+            "pages": 427,
+            "isbn13": "0-257-44796-2",
+            "rating": 4.3,
+            "price": 49.9,
+            "author": [
+                "Laura White DDS"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2010,
+            "pages": 196,
+            "isbn13": "1-195-57509-2",
+            "rating": 4.4,
+            "price": 585.6,
+            "author": [
+                "Samuel Garcia MD",
+                "Brandon Rivera DDS",
+                "Luis Evans"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2005,
+            "pages": 167,
+            "isbn13": "1-75445-652-9",
+            "rating": 2.6,
+            "price": 18.7,
+            "author": [
+                "Michelle Pierce",
+                "Wesley Beard",
+                "Samuel Evans"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2016,
+            "pages": 257,
+            "isbn13": "1-05-038713-9",
+            "rating": 0.9,
+            "price": 1979.6,
+            "author": [
+                "Anna Diaz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2013,
+            "pages": 372,
+            "isbn13": "1-886517-39-8",
+            "rating": 1.5,
+            "price": 207.6,
+            "author": [
+                "Julia Smith",
+                "Megan Rodgers",
+                "Brian Brown"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2012,
+            "pages": 3,
+            "isbn13": "0-14-579980-8",
+            "rating": 0.1,
+            "price": 1123.1,
+            "author": [
+                "Christopher Scott",
+                "Jane Rogers"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2005,
+            "pages": 324,
+            "isbn13": "1-69760-875-2",
+            "rating": 0.4,
+            "price": 620.7,
+            "author": [
+                "Michelle Williams",
+                "Jeffrey Wright"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2012,
+            "pages": 406,
+            "isbn13": "0-927129-92-2",
+            "rating": 2.3,
+            "price": 682.0,
+            "author": [
+                "Julia Webster",
+                "Crystal Wang",
+                "Christopher Bennett"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2010,
+            "pages": 147,
+            "isbn13": "1-137-80559-5",
+            "rating": 3.1,
+            "price": 736.3,
+            "author": [
+                "Lauren Hebert",
+                "Michael Harrison"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2001,
+            "pages": 272,
+            "isbn13": "0-7447-8548-0",
+            "rating": 0.6,
+            "price": 1735.3,
+            "author": [
+                "Louis Thompson",
+                "Preston Webb",
+                "Amber Franklin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2003,
+            "pages": 262,
+            "isbn13": "1-208-66459-X",
+            "rating": 3.6,
+            "price": 568.7,
+            "author": [
+                "Jesse Fernandez",
+                "John Page"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2008,
+            "pages": 496,
+            "isbn13": "0-936974-78-8",
+            "rating": 3.6,
+            "price": 1130.1,
+            "author": [
+                "Steven Johnson",
+                "Joel Pace"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2002,
+            "pages": 72,
+            "isbn13": "1-66594-367-X",
+            "rating": 3.5,
+            "price": 395.7,
+            "author": [
+                "Melinda Wong"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2005,
+            "pages": 433,
+            "isbn13": "0-8133-5316-5",
+            "rating": 1.4,
+            "price": 1405.3,
+            "author": [
+                "Jeremy Anderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2020,
+            "pages": 322,
+            "isbn13": "0-7398-3841-5",
+            "rating": 1.4,
+            "price": 1560.0,
+            "author": [
+                "Lisa Espinoza",
+                "Wayne Harris"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2011,
+            "pages": 282,
+            "isbn13": "1-71321-030-4",
+            "rating": 0.2,
+            "price": 522.5,
+            "author": [
+                "Melissa Shaw",
+                "Austin Baxter"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2003,
+            "pages": 328,
+            "isbn13": "1-65588-311-9",
+            "rating": 4.2,
+            "price": 728.8,
+            "author": [
+                "Michael Ray",
+                "James Hardy"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2016,
+            "pages": 394,
+            "isbn13": "0-9974474-1-9",
+            "rating": 0.3,
+            "price": 1363.6,
+            "author": [
+                "Mary Evans",
+                "Manuel Peterson II"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2021,
+            "pages": 104,
+            "isbn13": "0-320-22376-0",
+            "rating": 3.4,
+            "price": 1221.3,
+            "author": [
+                "Michael Lewis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2017,
+            "pages": 211,
+            "isbn13": "0-17-430373-4",
+            "rating": 1.2,
+            "price": 1272.6,
+            "author": [
+                "Margaret Taylor",
+                "Jason Marshall"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2005,
+            "pages": 82,
+            "isbn13": "1-58839-259-7",
+            "rating": 2.8,
+            "price": 168.5,
+            "author": [
+                "Bryan Beck"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2009,
+            "pages": 300,
+            "isbn13": "1-02-704236-8",
+            "rating": 4.0,
+            "price": 626.2,
+            "author": [
+                "Kerri Weber",
+                "Alvin Jones",
+                "Sherry Hale"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2012,
+            "pages": 243,
+            "isbn13": "0-510-38345-9",
+            "rating": 4.8,
+            "price": 94.1,
+            "author": [
+                "Chelsea Palmer"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2017,
+            "pages": 217,
+            "isbn13": "0-605-21591-X",
+            "rating": 2.6,
+            "price": 1840.7,
+            "author": [
+                "Jeremy Williams",
+                "Jennifer Rodriguez",
+                "Linda Hamilton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2015,
+            "pages": 178,
+            "isbn13": "0-295-59196-X",
+            "rating": 4.4,
+            "price": 342.2,
+            "author": [
+                "Rachel Harrison",
+                "Mark Roberts",
+                "Lisa Keller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2004,
+            "pages": 173,
+            "isbn13": "1-09-407814-X",
+            "rating": 4.1,
+            "price": 1774.0,
+            "author": [
+                "Jennifer Hodges",
+                "Jessica Juarez",
+                "Emily Lyons"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2011,
+            "pages": 359,
+            "isbn13": "0-696-99230-2",
+            "rating": 0.1,
+            "price": 236.9,
+            "author": [
+                "Monique Tanner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2003,
+            "pages": 63,
+            "isbn13": "1-335-57107-8",
+            "rating": 0.0,
+            "price": 366.1,
+            "author": [
+                "Tony Camacho"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2011,
+            "pages": 118,
+            "isbn13": "1-325-05000-8",
+            "rating": 3.4,
+            "price": 815.0,
+            "author": [
+                "Mr. Stephen Taylor"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2004,
+            "pages": 331,
+            "isbn13": "0-334-48132-5",
+            "rating": 3.2,
+            "price": 1911.9,
+            "author": [
+                "Jeremy Mercado"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2009,
+            "pages": 54,
+            "isbn13": "1-277-69595-4",
+            "rating": 5.0,
+            "price": 1568.0,
+            "author": [
+                "Sabrina Weaver",
+                "Emily Joseph",
+                "Hannah Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2005,
+            "pages": 132,
+            "isbn13": "0-10-562312-1",
+            "rating": 0.0,
+            "price": 915.7,
+            "author": [
+                "Alexander Alvarado"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2007,
+            "pages": 124,
+            "isbn13": "0-7797-1207-2",
+            "rating": 4.5,
+            "price": 1632.7,
+            "author": [
+                "Leslie Nelson",
+                "Becky Hardy",
+                "Nicole Barr"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2000,
+            "pages": 425,
+            "isbn13": "1-75060-419-1",
+            "rating": 1.4,
+            "price": 1494.9,
+            "author": [
+                "Angel Shelton",
+                "Jennifer Sullivan",
+                "Jenny Ramos"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2021,
+            "pages": 157,
+            "isbn13": "0-442-64414-0",
+            "rating": 4.4,
+            "price": 1495.3,
+            "author": [
+                "Michelle Pierce",
+                "Darren Abbott",
+                "Peter Ryan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
             "year": 2015,
             "pages": 74,
-            "isbn13": "1-58833-522-4",
-            "rating": 0.7,
-            "price": 1093.8,
+            "isbn13": "0-9609109-7-2",
+            "rating": 0.9,
+            "price": 1832.2,
             "author": [
-                "Mark Clark",
-                "Patricia Johnson",
-                "Gregory Walls"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2005,
-            "pages": 339,
-            "isbn13": "1-66730-949-8",
-            "rating": 2.4,
-            "price": 969.2,
-            "author": [
-                "Michael Johnson",
-                "Jeffrey Davis"
+                "Daniel Scott",
+                "Christine Meyer",
+                "Paul Mccormick"
             ]
         }
     },
@@ -260,191 +905,15 @@
         "pk": 1,
         "fields": {
             "title": "Искусство программирования",
-            "year": 2017,
-            "pages": 88,
-            "isbn13": "0-238-76828-7",
-            "rating": 2.9,
-            "price": 798.7,
-            "author": [
-                "Laura Cooke",
-                "Christopher Reynolds"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2004,
-            "pages": 35,
-            "isbn13": "1-79484-350-7",
-            "rating": 2.7,
-            "price": 63.1,
-            "author": [
-                "Samuel Allen"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2018,
-            "pages": 7,
-            "isbn13": "0-7652-8560-6",
-            "rating": 4.5,
-            "price": 1229.4,
-            "author": [
-                "Christine Solis",
-                "Crystal Vargas",
-                "Jennifer Tran"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2003,
-            "pages": 6,
-            "isbn13": "1-81623-895-3",
-            "rating": 3.3,
-            "price": 1134.2,
-            "author": [
-                "Laurie Nguyen",
-                "Timothy Hayes",
-                "Bryan Noble"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2014,
-            "pages": 210,
-            "isbn13": "0-520-41859-X",
-            "rating": 3.6,
-            "price": 940.1,
-            "author": [
-                "John Robinson"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2003,
-            "pages": 182,
-            "isbn13": "0-325-02035-3",
-            "rating": 4.3,
-            "price": 815.1,
-            "author": [
-                "John James",
-                "Tasha Young"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2018,
-            "pages": 189,
-            "isbn13": "1-286-73521-1",
-            "rating": 4.8,
-            "price": 74.0,
-            "author": [
-                "Elizabeth Turner",
-                "Julie Franklin",
-                "Rebecca Francis"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2017,
-            "pages": 222,
-            "isbn13": "0-15-045771-5",
-            "rating": 0.0,
-            "price": 1696.5,
-            "author": [
-                "Kelsey Miller",
-                "David Crawford"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2013,
-            "pages": 464,
-            "isbn13": "1-204-69235-1",
-            "rating": 3.3,
-            "price": 1492.8,
-            "author": [
-                "Nicholas Wong",
-                "Jaime King",
-                "John Meadows"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
             "year": 2010,
-            "pages": 149,
-            "isbn13": "1-252-40697-5",
-            "rating": 3.7,
-            "price": 703.9,
-            "author": [
-                "Jennifer Smith",
-                "Robert Munoz",
-                "Michael Roberts"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2001,
-            "pages": 48,
-            "isbn13": "0-468-88963-9",
-            "rating": 1.5,
-            "price": 1853.4,
-            "author": [
-                "Karen Armstrong"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2017,
-            "pages": 200,
-            "isbn13": "1-85446-328-4",
+            "pages": 192,
+            "isbn13": "1-82482-495-5",
             "rating": 3.4,
-            "price": 1972.1,
+            "price": 692.8,
             "author": [
-                "Kevin Buchanan"
+                "William Smith",
+                "Christopher Smith",
+                "Daniel Moreno"
             ]
         }
     },
@@ -453,274 +922,15 @@
         "pk": 1,
         "fields": {
             "title": "Паттерны проектирования",
-            "year": 2008,
-            "pages": 186,
-            "isbn13": "0-360-70779-3",
-            "rating": 3.3,
-            "price": 1384.7,
-            "author": [
-                "Fernando Gill",
-                "Jennifer Escobar",
-                "John Thompson"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2007,
-            "pages": 446,
-            "isbn13": "0-910383-76-6",
-            "rating": 3.0,
-            "price": 1666.0,
-            "author": [
-                "Gregory Smith"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2002,
-            "pages": 152,
-            "isbn13": "1-898695-47-4",
-            "rating": 0.7,
-            "price": 1496.3,
-            "author": [
-                "Andrea Perez"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2001,
-            "pages": 156,
-            "isbn13": "0-9780277-7-9",
-            "rating": 1.7,
-            "price": 325.7,
-            "author": [
-                "Katelyn Michael",
-                "Michelle Smith"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2018,
-            "pages": 5,
-            "isbn13": "1-01-506893-6",
-            "rating": 2.7,
-            "price": 521.7,
-            "author": [
-                "Christine Lang",
-                "Jacob Ramos",
-                "Dakota Montgomery"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2007,
-            "pages": 108,
-            "isbn13": "0-925299-32-4",
-            "rating": 3.5,
-            "price": 412.0,
-            "author": [
-                "Kendra Hayes",
-                "Mary Murray",
-                "Ryan Henderson"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2005,
-            "pages": 216,
-            "isbn13": "0-17-708266-6",
-            "rating": 4.4,
-            "price": 1684.0,
-            "author": [
-                "Shelby Robinson PhD"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2013,
-            "pages": 30,
-            "isbn13": "0-604-93331-2",
-            "rating": 2.4,
-            "price": 1976.2,
-            "author": [
-                "Rhonda Frederick",
-                "Joshua Acosta",
-                "Elizabeth Davis"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2021,
-            "pages": 335,
-            "isbn13": "1-116-53076-7",
-            "rating": 4.9,
-            "price": 898.7,
-            "author": [
-                "Victoria Hayes",
-                "Bryan Hernandez",
-                "Megan Perkins"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2015,
-            "pages": 451,
-            "isbn13": "0-9685579-7-X",
-            "rating": 0.0,
-            "price": 316.1,
-            "author": [
-                "Shelby Lee"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2014,
-            "pages": 239,
-            "isbn13": "0-339-88354-5",
-            "rating": 3.9,
-            "price": 1606.5,
-            "author": [
-                "Brian Avila",
-                "James Smith",
-                "Anthony Hale"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2007,
-            "pages": 439,
-            "isbn13": "1-07-325537-9",
-            "rating": 3.0,
-            "price": 281.6,
-            "author": [
-                "Kaitlin Graham",
-                "Nicole Martin"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2014,
-            "pages": 31,
-            "isbn13": "0-10-571480-1",
-            "rating": 4.6,
-            "price": 879.4,
-            "author": [
-                "Olivia Michael",
-                "Rodney George"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2004,
-            "pages": 218,
-            "isbn13": "1-318-50462-7",
+            "year": 2003,
+            "pages": 407,
+            "isbn13": "1-254-90386-0",
             "rating": 2.8,
-            "price": 878.0,
+            "price": 1218.2,
             "author": [
-                "Dr. Lauren Allen",
-                "Jerry Bradley",
-                "Peter Becker"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2010,
-            "pages": 192,
-            "isbn13": "1-55383-218-3",
-            "rating": 3.7,
-            "price": 1732.5,
-            "author": [
-                "Crystal Nelson",
-                "Miss Stacey Martin"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2006,
-            "pages": 446,
-            "isbn13": "0-04-164526-X",
-            "rating": 3.3,
-            "price": 158.5,
-            "author": [
-                "Kathleen Flores",
-                "Gabriela Waters"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2008,
-            "pages": 359,
-            "isbn13": "1-4566-0531-3",
-            "rating": 4.2,
-            "price": 1650.8,
-            "author": [
-                "Pamela Ramirez",
-                "Michael Abbott",
-                "Gina Brown DVM"
+                "Olivia Case",
+                "Craig Hensley",
+                "Cody French"
             ]
         }
     },
@@ -729,521 +939,13 @@
         "pk": 1,
         "fields": {
             "title": "Психбольница в руках пациентов",
-            "year": 2014,
-            "pages": 406,
-            "isbn13": "0-00-880513-X",
-            "rating": 4.3,
-            "price": 1171.0,
-            "author": [
-                "Sarah Hess"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2009,
-            "pages": 368,
-            "isbn13": "0-338-37827-8",
-            "rating": 3.8,
-            "price": 1452.3,
-            "author": [
-                "Carl Brown"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2015,
-            "pages": 215,
-            "isbn13": "1-364-24288-5",
-            "rating": 2.5,
-            "price": 377.0,
-            "author": [
-                "Matthew Alexander"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2002,
-            "pages": 342,
-            "isbn13": "0-03-294199-4",
-            "rating": 4.4,
-            "price": 1610.5,
-            "author": [
-                "Steve King"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2005,
-            "pages": 372,
-            "isbn13": "1-71808-426-9",
-            "rating": 3.4,
-            "price": 767.8,
-            "author": [
-                "Eric Owens",
-                "Brian Zuniga",
-                "Clinton Hampton"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2018,
-            "pages": 431,
-            "isbn13": "0-8333-4967-8",
-            "rating": 3.0,
-            "price": 667.6,
-            "author": [
-                "Deborah Johnston"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2018,
-            "pages": 388,
-            "isbn13": "1-57942-444-9",
-            "rating": 3.4,
-            "price": 41.6,
-            "author": [
-                "Deborah Downs",
-                "Tanya Beck",
-                "Andrew Hernandez"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2011,
-            "pages": 418,
-            "isbn13": "0-936037-27-X",
-            "rating": 1.3,
-            "price": 1456.5,
-            "author": [
-                "Calvin Love",
-                "Summer Fisher"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2002,
-            "pages": 210,
-            "isbn13": "1-4225-3291-7",
-            "rating": 2.7,
-            "price": 372.0,
-            "author": [
-                "Regina Jones",
-                "Jeffrey Aguilar"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2007,
-            "pages": 131,
-            "isbn13": "0-910014-82-5",
-            "rating": 3.6,
-            "price": 1182.6,
-            "author": [
-                "Lisa Foster",
-                "Blake Sullivan"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
             "year": 2003,
-            "pages": 369,
-            "isbn13": "1-61088-082-X",
-            "rating": 2.8,
-            "price": 1363.3,
-            "author": [
-                "Mary Hernandez MD",
-                "Robert Valdez",
-                "Lauren Medina"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2014,
-            "pages": 287,
-            "isbn13": "1-4544-4015-5",
-            "rating": 1.3,
-            "price": 1301.6,
-            "author": [
-                "Tina Lam"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2020,
-            "pages": 61,
-            "isbn13": "0-7490-7146-X",
-            "rating": 1.8,
-            "price": 866.2,
-            "author": [
-                "Michael Scott"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2014,
-            "pages": 292,
-            "isbn13": "1-4189-7226-6",
-            "rating": 1.6,
-            "price": 572.3,
-            "author": [
-                "Rebecca Rush",
-                "John Oneill",
-                "Trevor Pham"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2020,
-            "pages": 18,
-            "isbn13": "1-886076-42-1",
-            "rating": 3.4,
-            "price": 1791.7,
-            "author": [
-                "Michael Fletcher",
-                "Danielle Cardenas"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2014,
-            "pages": 337,
-            "isbn13": "0-8122-0634-7",
-            "rating": 4.3,
-            "price": 1592.9,
-            "author": [
-                "John Hopkins",
-                "Kaitlin Young"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2015,
-            "pages": 360,
-            "isbn13": "0-507-78851-6",
-            "rating": 1.8,
-            "price": 293.5,
-            "author": [
-                "Renee Ferguson"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2001,
-            "pages": 349,
-            "isbn13": "0-9974205-7-X",
-            "rating": 4.3,
-            "price": 1020.3,
-            "author": [
-                "Adam Freeman",
-                "Gavin Lee"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2007,
-            "pages": 106,
-            "isbn13": "0-05-492449-9",
-            "rating": 1.3,
-            "price": 1620.9,
-            "author": [
-                "Ricky Morrison",
-                "Kelly Wilson",
-                "Theresa Price"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2017,
-            "pages": 260,
-            "isbn13": "1-125-05126-4",
-            "rating": 4.4,
-            "price": 1607.0,
-            "author": [
-                "Steven Sanchez"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2018,
-            "pages": 329,
-            "isbn13": "1-85792-397-9",
-            "rating": 1.8,
-            "price": 1352.6,
-            "author": [
-                "Steven Woods",
-                "Vickie Reyes"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2003,
-            "pages": 167,
-            "isbn13": "1-170-53871-1",
-            "rating": 1.8,
-            "price": 976.5,
-            "author": [
-                "Donald King",
-                "Catherine Owens"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2009,
-            "pages": 45,
-            "isbn13": "0-459-08834-3",
-            "rating": 3.6,
-            "price": 1112.6,
-            "author": [
-                "Thomas Hoover"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2015,
-            "pages": 319,
-            "isbn13": "0-9507834-6-3",
-            "rating": 1.6,
-            "price": 1502.6,
-            "author": [
-                "Brett Singh"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2009,
-            "pages": 157,
-            "isbn13": "0-350-97500-0",
-            "rating": 2.9,
-            "price": 313.6,
-            "author": [
-                "Daniel Hubbard",
-                "Carlos Webb"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2002,
-            "pages": 5,
-            "isbn13": "0-15-030322-X",
-            "rating": 4.7,
-            "price": 242.1,
-            "author": [
-                "Kathryn Anderson",
-                "Richard Thomas",
-                "Calvin Burch"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2003,
-            "pages": 57,
-            "isbn13": "0-04-095162-6",
-            "rating": 1.7,
-            "price": 1084.2,
-            "author": [
-                "Stephanie Johnson",
-                "Angela Mcmillan"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2017,
-            "pages": 330,
-            "isbn13": "0-00-393814-X",
-            "rating": 1.3,
-            "price": 1002.2,
-            "author": [
-                "Richard Flores",
-                "Janet Brown",
-                "Anita Brown"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2017,
-            "pages": 33,
-            "isbn13": "1-74723-211-4",
-            "rating": 3.1,
-            "price": 200.8,
-            "author": [
-                "Angela Weaver"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2021,
-            "pages": 413,
-            "isbn13": "0-379-28707-2",
-            "rating": 3.8,
-            "price": 1963.3,
-            "author": [
-                "Craig Hernandez",
-                "Steven Fisher",
-                "Ryan Perez"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2017,
-            "pages": 420,
-            "isbn13": "0-9616280-0-6",
-            "rating": 1.0,
-            "price": 1641.0,
-            "author": [
-                "Samantha Smith",
-                "Ronald Young",
-                "Anthony Hicks"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2004,
-            "pages": 169,
-            "isbn13": "1-75461-827-8",
-            "rating": 0.3,
-            "price": 562.0,
-            "author": [
-                "Donald Padilla"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2004,
-            "pages": 240,
-            "isbn13": "0-416-93822-1",
+            "pages": 336,
+            "isbn13": "0-461-68245-1",
             "rating": 0.7,
-            "price": 553.3,
+            "price": 1263.6,
             "author": [
-                "Ann Gonzalez"
+                "Jacqueline Mora"
             ]
         }
     },
@@ -1252,269 +954,31 @@
         "pk": 1,
         "fields": {
             "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2017,
-            "pages": 266,
-            "isbn13": "0-328-66275-5",
-            "rating": 3.7,
-            "price": 1054.4,
-            "author": [
-                "Michael Moran",
-                "Nancy Herrera"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2020,
-            "pages": 46,
-            "isbn13": "1-55940-872-3",
-            "rating": 3.1,
-            "price": 572.8,
-            "author": [
-                "William Harris",
-                "Nancy Smith",
-                "Sharon Jenkins"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2010,
-            "pages": 47,
-            "isbn13": "0-8096-2219-X",
-            "rating": 0.0,
-            "price": 501.6,
-            "author": [
-                "Shannon Roberts"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2004,
-            "pages": 393,
-            "isbn13": "0-12-236355-8",
-            "rating": 1.7,
-            "price": 633.0,
-            "author": [
-                "Luis Smith",
-                "Andrew Brooks"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2007,
-            "pages": 299,
-            "isbn13": "0-9500392-7-6",
-            "rating": 1.7,
-            "price": 1122.6,
-            "author": [
-                "Carly Collins"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2010,
-            "pages": 239,
-            "isbn13": "0-528-27584-4",
-            "rating": 3.4,
-            "price": 310.6,
-            "author": [
-                "Tiffany Reynolds",
-                "Kevin Garcia"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2015,
-            "pages": 92,
-            "isbn13": "0-361-76346-8",
-            "rating": 3.7,
-            "price": 963.1,
-            "author": [
-                "Collin Lewis"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2008,
-            "pages": 457,
-            "isbn13": "0-368-45976-4",
-            "rating": 1.9,
-            "price": 691.3,
-            "author": [
-                "Edward Weber"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2011,
-            "pages": 20,
-            "isbn13": "0-14-488401-1",
-            "rating": 2.9,
-            "price": 1811.6,
-            "author": [
-                "Steven Hayes"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2004,
-            "pages": 443,
-            "isbn13": "1-4932-2481-6",
-            "rating": 0.1,
-            "price": 1538.8,
-            "author": [
-                "Veronica Young",
-                "Jenny Hendrix",
-                "Kelly Johnson"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2009,
-            "pages": 79,
-            "isbn13": "0-06-603820-0",
-            "rating": 3.5,
-            "price": 1610.5,
-            "author": [
-                "Wendy Gordon"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2009,
-            "pages": 409,
-            "isbn13": "1-361-48901-4",
-            "rating": 4.6,
-            "price": 766.8,
-            "author": [
-                "Jennifer Baker",
-                "Karen Valenzuela",
-                "Jacob Bernard"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2012,
-            "pages": 248,
-            "isbn13": "1-5070-9111-7",
-            "rating": 2.9,
-            "price": 85.0,
-            "author": [
-                "Mary Myers",
-                "Jackie Bailey",
-                "Jeffrey Collins"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2010,
-            "pages": 244,
-            "isbn13": "1-342-07608-7",
-            "rating": 2.2,
-            "price": 1092.4,
-            "author": [
-                "Michael Yu",
-                "John Marsh"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Паттерны проектирования",
-            "year": 2019,
-            "pages": 231,
-            "isbn13": "1-228-57922-9",
-            "rating": 2.6,
-            "price": 227.8,
-            "author": [
-                "Kelly Jackson",
-                "Peter Quinn",
-                "Matthew Byrd"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Психбольница в руках пациентов",
-            "year": 2006,
-            "pages": 311,
-            "isbn13": "1-07-078242-4",
-            "rating": 2.8,
-            "price": 89.5,
-            "author": [
-                "Brandon Sharp",
-                "Lorraine Sutton"
-            ]
-        }
-    },
-    {
-        "model": "shop_final.book",
-        "pk": 1,
-        "fields": {
-            "title": "Искусство программирования",
-            "year": 2012,
-            "pages": 77,
-            "isbn13": "1-5489-1007-4",
+            "year": 2018,
+            "pages": 254,
+            "isbn13": "1-81459-898-7",
             "rating": 0.8,
-            "price": 640.4,
+            "price": 1699.1,
             "author": [
-                "Robin Ruiz",
-                "Scott Goodman"
+                "Alicia Lynch",
+                "Larry Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2004,
+            "pages": 249,
+            "isbn13": "1-964590-60-4",
+            "rating": 3.6,
+            "price": 417.6,
+            "author": [
+                "Michael Taylor",
+                "Samantha Vang",
+                "Jonathan Singleton"
             ]
         }
     },
@@ -1523,15 +987,60 @@
         "pk": 1,
         "fields": {
             "title": "Шаблоны корпоративных приложений",
+            "year": 2000,
+            "pages": 343,
+            "isbn13": "0-501-52155-0",
+            "rating": 2.6,
+            "price": 1173.2,
+            "author": [
+                "Kelli Shepard"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2002,
+            "pages": 361,
+            "isbn13": "0-573-74833-0",
+            "rating": 1.4,
+            "price": 1169.9,
+            "author": [
+                "Scott Green",
+                "Jennifer Schroeder"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2020,
+            "pages": 181,
+            "isbn13": "1-55159-250-9",
+            "rating": 0.2,
+            "price": 1776.0,
+            "author": [
+                "Jennifer Murray",
+                "Kenneth Jenkins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
             "year": 2001,
-            "pages": 8,
-            "isbn13": "1-4047-1662-9",
-            "rating": 1.9,
-            "price": 1940.1,
+            "pages": 396,
+            "isbn13": "0-584-99437-0",
+            "rating": 2.6,
+            "price": 1946.7,
             "author": [
-                "Diana Hawkins",
-                "Adam Baird",
-                "Paul Mejia"
+                "Catherine Burns"
             ]
         }
     },
@@ -1539,14 +1048,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "Шаблоны корпоративных приложений",
-            "year": 2015,
-            "pages": 57,
-            "isbn13": "0-938640-58-5",
-            "rating": 2.8,
-            "price": 609.3,
+            "title": "Психбольница в руках пациентов",
+            "year": 2008,
+            "pages": 285,
+            "isbn13": "1-962702-85-5",
+            "rating": 0.0,
+            "price": 1281.3,
             "author": [
-                "Amanda Richardson"
+                "Ryan Cochran",
+                "Edward Woodward",
+                "Caitlin Navarro"
             ]
         }
     },
@@ -1555,15 +1066,124 @@
         "pk": 1,
         "fields": {
             "title": "Искусство программирования",
-            "year": 2008,
-            "pages": 493,
-            "isbn13": "1-941279-58-9",
-            "rating": 0.1,
-            "price": 1921.4,
+            "year": 2020,
+            "pages": 27,
+            "isbn13": "0-363-83984-4",
+            "rating": 2.3,
+            "price": 163.1,
             "author": [
-                "Paul Travis",
-                "Kimberly Barber",
-                "Brittany Day"
+                "Amber Barr"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2019,
+            "pages": 158,
+            "isbn13": "1-4366-2484-3",
+            "rating": 0.5,
+            "price": 1000.1,
+            "author": [
+                "Jonathan Hanson",
+                "Brandon Webb"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2018,
+            "pages": 252,
+            "isbn13": "1-4172-4220-5",
+            "rating": 0.9,
+            "price": 657.2,
+            "author": [
+                "Mark Perez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2016,
+            "pages": 2,
+            "isbn13": "0-636-39802-1",
+            "rating": 3.9,
+            "price": 671.0,
+            "author": [
+                "James Velazquez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2015,
+            "pages": 491,
+            "isbn13": "0-06-037564-7",
+            "rating": 4.1,
+            "price": 65.1,
+            "author": [
+                "Ashley Mejia MD",
+                "Stephen Nichols"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2021,
+            "pages": 498,
+            "isbn13": "0-89703-168-7",
+            "rating": 4.0,
+            "price": 705.3,
+            "author": [
+                "Elizabeth Morgan",
+                "Louis Meyer",
+                "Shannon Farrell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2009,
+            "pages": 144,
+            "isbn13": "0-7555-5572-4",
+            "rating": 0.7,
+            "price": 1073.1,
+            "author": [
+                "Allen Chung",
+                "Michael Nguyen",
+                "Michael Freeman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2015,
+            "pages": 40,
+            "isbn13": "0-460-67798-5",
+            "rating": 3.7,
+            "price": 1779.3,
+            "author": [
+                "Mark Mccarthy"
             ]
         }
     },
@@ -1573,14 +1193,77 @@
         "fields": {
             "title": "Паттерны объектно-ориентированного проектирования",
             "year": 2012,
-            "pages": 189,
-            "isbn13": "0-942615-80-8",
-            "rating": 0.7,
-            "price": 1987.6,
+            "pages": 119,
+            "isbn13": "1-77725-353-5",
+            "rating": 4.6,
+            "price": 1195.4,
             "author": [
-                "Joe Le",
-                "Kelly Barron",
-                "Eric Parker"
+                "Christian Martinez",
+                "Richard Booker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2019,
+            "pages": 27,
+            "isbn13": "0-8342-9828-7",
+            "rating": 3.5,
+            "price": 1087.9,
+            "author": [
+                "Taylor Mckenzie",
+                "Helen Newton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2019,
+            "pages": 184,
+            "isbn13": "1-939469-67-8",
+            "rating": 3.4,
+            "price": 563.1,
+            "author": [
+                "Terry Howard",
+                "Christopher Myers",
+                "Julie Johnston MD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2017,
+            "pages": 48,
+            "isbn13": "1-107-41160-2",
+            "rating": 2.6,
+            "price": 845.2,
+            "author": [
+                "Amber Turner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2000,
+            "pages": 315,
+            "isbn13": "0-8273-1776-X",
+            "rating": 3.0,
+            "price": 26.3,
+            "author": [
+                "Gilbert Stone",
+                "Richard Miller"
             ]
         }
     },
@@ -1589,13 +1272,335 @@
         "pk": 1,
         "fields": {
             "title": "Паттерны объектно-ориентированного проектирования",
-            "year": 2021,
-            "pages": 338,
-            "isbn13": "1-82837-343-5",
-            "rating": 1.8,
-            "price": 105.7,
+            "year": 2004,
+            "pages": 194,
+            "isbn13": "0-510-32656-0",
+            "rating": 1.7,
+            "price": 1240.5,
             "author": [
-                "Alexander Davis"
+                "Pamela Weber"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2011,
+            "pages": 308,
+            "isbn13": "1-09-373283-0",
+            "rating": 1.5,
+            "price": 1862.5,
+            "author": [
+                "Dana Garcia",
+                "Mr. Ernest Poole",
+                "Bianca Ramos"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2011,
+            "pages": 51,
+            "isbn13": "1-03-593124-9",
+            "rating": 1.1,
+            "price": 502.1,
+            "author": [
+                "Michael Richardson",
+                "Christopher Jones",
+                "Amber Adams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2000,
+            "pages": 205,
+            "isbn13": "1-122-15118-7",
+            "rating": 1.4,
+            "price": 1307.4,
+            "author": [
+                "Scott Giles",
+                "Anthony Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2018,
+            "pages": 274,
+            "isbn13": "0-634-94530-0",
+            "rating": 3.3,
+            "price": 1000.2,
+            "author": [
+                "Nathan Hayes"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2013,
+            "pages": 124,
+            "isbn13": "0-9824596-6-1",
+            "rating": 1.7,
+            "price": 353.9,
+            "author": [
+                "Gina Potter",
+                "Robert Austin",
+                "Mrs. Jeanne Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2010,
+            "pages": 170,
+            "isbn13": "0-403-10195-6",
+            "rating": 1.3,
+            "price": 196.0,
+            "author": [
+                "Gregory Lee",
+                "Jennifer Wolf",
+                "John Phillips"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2017,
+            "pages": 244,
+            "isbn13": "1-877517-89-5",
+            "rating": 2.8,
+            "price": 1495.8,
+            "author": [
+                "Desiree Raymond"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2019,
+            "pages": 342,
+            "isbn13": "0-9709380-1-2",
+            "rating": 3.5,
+            "price": 27.0,
+            "author": [
+                "Traci Little"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2019,
+            "pages": 225,
+            "isbn13": "0-07-418093-2",
+            "rating": 3.5,
+            "price": 1089.5,
+            "author": [
+                "Calvin Hernandez",
+                "Melissa Herring"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2002,
+            "pages": 408,
+            "isbn13": "0-11-074936-7",
+            "rating": 2.0,
+            "price": 1698.0,
+            "author": [
+                "Logan Bradley",
+                "Christy Howard"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны объектно-ориентированного проектирования",
+            "year": 2003,
+            "pages": 79,
+            "isbn13": "1-65166-620-2",
+            "rating": 2.8,
+            "price": 1278.7,
+            "author": [
+                "Randy Bradshaw"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2020,
+            "pages": 286,
+            "isbn13": "1-5491-2277-0",
+            "rating": 0.9,
+            "price": 1908.7,
+            "author": [
+                "Tracy Arnold",
+                "Steven Blake"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2015,
+            "pages": 443,
+            "isbn13": "1-4693-8107-9",
+            "rating": 1.5,
+            "price": 1163.0,
+            "author": [
+                "Danielle Garza"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2007,
+            "pages": 235,
+            "isbn13": "1-115-42943-4",
+            "rating": 1.5,
+            "price": 63.0,
+            "author": [
+                "Lauren Allen",
+                "Dawn Williams",
+                "Brandon Paul"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Психбольница в руках пациентов",
+            "year": 2011,
+            "pages": 118,
+            "isbn13": "0-7635-4179-6",
+            "rating": 1.6,
+            "price": 1483.0,
+            "author": [
+                "Sarah Schmidt",
+                "Brian Cannon"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2005,
+            "pages": 491,
+            "isbn13": "1-75844-099-6",
+            "rating": 1.8,
+            "price": 874.3,
+            "author": [
+                "Holly Lopez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Искусство программирования",
+            "year": 2001,
+            "pages": 447,
+            "isbn13": "0-13-989314-8",
+            "rating": 1.4,
+            "price": 213.1,
+            "author": [
+                "Christopher Howard",
+                "Cheryl Brown",
+                "Cameron Hill"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Паттерны проектирования",
+            "year": 2018,
+            "pages": 404,
+            "isbn13": "0-405-59255-8",
+            "rating": 1.1,
+            "price": 17.7,
+            "author": [
+                "Gloria Martin",
+                "Brian Carter",
+                "Joseph Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2003,
+            "pages": 88,
+            "isbn13": "0-334-99639-2",
+            "rating": 4.6,
+            "price": 1849.3,
+            "author": [
+                "Aaron Bowers",
+                "Jason Vance"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "Шаблоны корпоративных приложений",
+            "year": 2004,
+            "pages": 102,
+            "isbn13": "0-85846-593-0",
+            "rating": 1.2,
+            "price": 1457.1,
+            "author": [
+                "Kayla Stafford",
+                "Vanessa Powell",
+                "Kenneth Vargas"
             ]
         }
     }

@@ -49,12 +49,11 @@ def get_dict(start=1):
                                                               "isbn13": isbn13(), "rating": rating(), "price": price(),
                                                               "author": author()}}
 
-def list_book():
-    return [next(get_dict()) for _ in range(100)]
 
 def main():
+    list_book = [next(get_dict()) for _ in range(100)]
     with open("result.json", "w", encoding="utf8") as f:
-        json.dump(list_book(), f, ensure_ascii=False, indent=4)
+        json.dump(list_book, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":
